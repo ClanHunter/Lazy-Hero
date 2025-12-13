@@ -1,9 +1,0 @@
-length_chars: 2416
-chars_sample: 'TRrdVTTTY)lcOawzwYjaBzBbTRW2j1XDnPbrkpGHLAjAkABUkljir3SwuOF7VJKswus0XoPbVNdqMHxzKV7499DuhNC0e3jozXRsXKjtN4GwXweNoXXLKIPXWdsGfKiMxgoLMWM4Kpw(jmgJcZ9)ckCfPBUplor8)zOq4FXXlNIyWcAugdfHj5(Vj3322o)9nWpijt8B'
-base64: invalid
-hex: invalid
-raw_entropy: 5.9746 bits/byte
-raw_decompressed_with_gzip: fail (Not a gzipped file (b'TR'))
-raw_decompressed_with_zlib: fail (Error -3 while decompressing data: incorrect header check)
-raw_decompressed_with_bz2: fail (Invalid data stream)
-raw_decompressed_with_lzma: fail (Input format not supported by decoder)
