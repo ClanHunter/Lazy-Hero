@@ -1,0 +1,242 @@
+[
+  {
+    "Class": "Death Knight",
+    "Spec": "Blood",
+    "CoreAbilities": ["Death Grip", "Death Coil", "Death Strike", "Raise Dead", "Anti-Magic Shell", "Icebound Fortitude"],
+    "SpecTalents": ["Heart Strike", "Marrowrend", "Dancing Rune Weapon"],
+    "HeroTalents": ["San’layn", "Rider of the Apocalypse", "Deathbringer"],
+    "PvPTalents": ["Necrotic Wounds", "Dark Simulacrum", "Strangulate", "Death Chain", "Necrotic Aura"]
+  },
+  {
+    "Class": "Death Knight",
+    "Spec": "Frost",
+    "CoreAbilities": ["Death Grip", "Death Coil", "Death Strike", "Raise Dead", "Anti-Magic Shell", "Icebound Fortitude"],
+    "SpecTalents": ["Obliterate", "Frost Strike", "Pillar of Frost"],
+    "HeroTalents": ["San’layn", "Rider of the Apocalypse", "Deathbringer"],
+    "PvPTalents": ["Necrotic Wounds", "Dark Simulacrum", "Strangulate", "Death Chain", "Necrotic Aura"]
+  },
+  {
+    "Class": "Death Knight",
+    "Spec": "Unholy",
+    "CoreAbilities": ["Death Grip", "Death Coil", "Death Strike", "Raise Dead", "Anti-Magic Shell", "Icebound Fortitude"],
+    "SpecTalents": ["Festering Strike", "Scourge Strike", "Apocalypse", "Army of the Dead"],
+    "HeroTalents": ["San’layn", "Rider of the Apocalypse", "Deathbringer"],
+    "PvPTalents": ["Necrotic Wounds", "Dark Simulacrum", "Strangulate", "Death Chain", "Necrotic Aura"]
+  },
+  {
+    "Class": "Demon Hunter",
+    "Spec": "Havoc",
+    "CoreAbilities": ["Double Jump", "Glide", "Spectral Sight", "Metamorphosis", "Fel Rush", "Eye Beam"],
+    "SpecTalents": ["Chaos Strike", "Blade Dance", "Fel Barrage"],
+    "HeroTalents": ["Fel Fangs", "Aldrachi Reaver"],
+    "PvPTalents": ["Rain from Above", "Reverse Magic", "Mana Break", "Illidan’s Grasp", "Detainment"]
+  },
+  {
+    "Class": "Demon Hunter",
+    "Spec": "Vengeance",
+    "CoreAbilities": ["Double Jump", "Glide", "Spectral Sight", "Metamorphosis", "Fel Rush", "Eye Beam"],
+    "SpecTalents": ["Soul Cleave", "Fiery Brand", "Infernal Strike"],
+    "HeroTalents": ["Fel Fangs", "Aldrachi Reaver"],
+    "PvPTalents": ["Rain from Above", "Reverse Magic", "Mana Break", "Illidan’s Grasp", "Detainment"]
+  },
+  {
+    "Class": "Druid",
+    "Spec": "Balance",
+    "CoreAbilities": ["Shapeshift", "Rebirth", "Barkskin", "Cyclone", "Stampeding Roar"],
+    "SpecTalents": ["Starsurge", "Starfall", "Celestial Alignment"],
+    "HeroTalents": ["Keeper of the Grove", "Wildstalker", "Colossus", "Elune’s Chosen"],
+    "PvPTalents": ["Thorns", "Cyclone", "Ferocious Wound", "Overgrowth", "Malorne’s Swiftness"]
+  },
+  {
+    "Class": "Druid",
+    "Spec": "Feral",
+    "CoreAbilities": ["Shapeshift", "Rebirth", "Barkskin", "Cyclone", "Stampeding Roar"],
+    "SpecTalents": ["Rip", "Ferocious Bite", "Berserk"],
+    "HeroTalents": ["Keeper of the Grove", "Wildstalker", "Colossus", "Elune’s Chosen"],
+    "PvPTalents": ["Thorns", "Cyclone", "Ferocious Wound", "Overgrowth", "Malorne’s Swiftness"]
+  },
+  {
+    "Class": "Druid",
+    "Spec": "Guardian",
+    "CoreAbilities": ["Shapeshift", "Rebirth", "Barkskin", "Cyclone", "Stampeding Roar"],
+    "SpecTalents": ["Ironfur", "Frenzied Regeneration", "Survival Instincts"],
+    "HeroTalents": ["Keeper of the Grove", "Wildstalker", "Colossus", "Elune’s Chosen"],
+    "PvPTalents": ["Thorns", "Cyclone", "Ferocious Wound", "Overgrowth", "Malorne’s Swiftness"]
+  },
+  {
+    "Class": "Druid",
+    "Spec": "Restoration",
+    "CoreAbilities": ["Shapeshift", "Rebirth", "Barkskin", "Cyclone", "Stampeding Roar"],
+    "SpecTalents": ["Rejuvenation", "Wild Growth", "Tranquility"],
+    "HeroTalents": ["Keeper of the Grove", "Wildstalker", "Colossus", "Elune’s Chosen"],
+    "PvPTalents": ["Thorns", "Cyclone", "Ferocious Wound", "Overgrowth", "Malorne’s Swiftness"]
+  },
+  {
+    "Class": "Evoker",
+    "Spec": "Devastation",
+    "CoreAbilities": ["Living Flame", "Azure Strike", "Deep Breath", "Blessing of the Bronze"],
+    "SpecTalents": ["Fire Breath", "Eternity Surge", "Dragonrage"],
+    "HeroTalents": ["Flameshaper", "Chronowarden", "Scalecommander"],
+    "PvPTalents": ["Chrono Loop", "Nullifying Shroud", "Obsidian Mettle", "Time Stop"]
+  },
+  {
+    "Class": "Evoker",
+    "Spec": "Preservation",
+    "CoreAbilities": ["Living Flame", "Azure Strike", "Deep Breath", "Blessing of the Bronze"],
+    "SpecTalents": ["Dream Breath", "Spiritbloom", "Rewind"],
+    "HeroTalents": ["Flameshaper", "Chronowarden", "Scalecommander"],
+    "PvPTalents": ["Chrono Loop", "Nullifying Shroud", "Obsidian Mettle", "Time Stop"]
+  },
+  {
+    "Class": "Evoker",
+    "Spec": "Augmentation",
+    "CoreAbilities": ["Living Flame", "Azure Strike", "Deep Breath", "Blessing of the Bronze"],
+    "SpecTalents": ["Ebon Might", "Upheaval", "Breath of Eons"],
+    "HeroTalents": ["Flameshaper", "Chronowarden", "Scalecommander"],
+    "PvPTalents": ["Chrono Loop", "Nullifying Shroud", "Obsidian Mettle", "Time Stop"]
+  },
+  {
+    "Class": "Hunter",
+    "Spec": "Beast Mastery",
+    "CoreAbilities": ["Kill Shot", "Arcane Shot", "Disengage", "Aspect of the Turtle", "Misdirection"],
+    "SpecTalents": ["Kill Command", "Bestial Wrath"],
+    "HeroTalents": ["Pack Leader", "Dark Ranger", "Sentinel"],
+    "PvPTalents": ["Roar of Sacrifice", "Survival Tactics", "Tranquilizing Shot", "Diamond Ice", "Hunting Pack"]
+  },
+  {
+    "Class": "Hunter",
+    "Spec": "Marksmanship",
+    "CoreAbilities": ["Kill Shot", "Arcane Shot", "Disengage", "Aspect of the Turtle", "Misdirection"],
+    "SpecTalents": ["Aimed Shot", "Rapid Fire", "Volley"],
+    "HeroTalents": ["Pack Leader", "Dark Ranger", "Sentinel"],
+    "PvPTalents": ["Roar of Sacrifice", "Survival Tactics", "Tranquilizing Shot", "Diamond Ice", "Hunting Pack"]
+  },
+  {
+    "Class": "Hunter",
+    "Spec": "Survival",
+    "CoreAbilities": ["Kill Shot", "Arcane Shot", "Disengage", "Aspect of the Turtle", "Misdirection"],
+    "SpecTalents": ["Raptor Strike", "Wildfire Bomb"],
+    "HeroTalents": ["Pack Leader", "Dark Ranger", "Sentinel"],
+    "PvPTalents": ["Roar of Sacrifice", "Survival Tactics", "Tranquilizing Shot", "Diamond Ice", "Hunting Pack"]
+  },
+  {
+    "Class": "Mage",
+    "Spec": "Arcane",
+    "CoreAbilities": ["Polymorph", "Blink", "Counterspell", "Ice Block", "Spellsteal"],
+    "SpecTalents": ["Arcane Blast", "Arcane Barrage", "Touch of the Magi"],
+    "HeroTalents": ["Spellslinger", "Sunfury", "Frostfire"],
+    "PvPTalents": ["Temporal Shield", "Netherwind Armor", "Kleptomania", "Mass Invisibility", "Concentrated Coolness"]
+  },
+  {
+    "Class": "Mage",
+    "Spec": "Fire",
+    "CoreAbilities": ["Polymorph", "Blink", "Counterspell", "Ice Block", "Spellsteal"],
+    "SpecTalents": ["Pyroblast", "Combustion", "Phoenix Flames"],
+    "HeroTalents": ["Spellslinger", "Sunfury", "Frostfire"],
+    "PvPTalents": ["Temporal Shield", "Netherwind Armor", "Kleptomania", "Mass Invisibility", "Concentrated Coolness"]
+  },
+  {
+    "Class": "Mage",
+    "Spec": "Frost",
+    "CoreAbilities": ["Polymorph", "Blink", "Counterspell", "Ice Block", "Spellsteal"],
+    "SpecTalents": ["Frostbolt", "Ice Lance", "Icy Veins"],
+    "HeroTalents": ["Spellslinger", "Sunfury", "Frostfire"],
+    "PvPTalents": ["Temporal Shield", "Netherwind Armor", "Kleptomania", "Mass Invisibility", "Concentrated Coolness"]
+  },
+  {
+    "Class": "Monk",
+    "Spec": "Brewmaster",
+    "CoreAbilities": ["Roll", "Paralysis", "Touch of Death", "Fortifying Brew"],
+    "SpecTalents": ["Keg Smash", "Purifying Brew"],
+    "HeroTalents": ["Shado-Pan", "Clouded Focus", "Stormstout"],
+    "PvPTalents": ["Alpha Tiger", "Turbo Fists", "Dome of Mist", "Eminence", "Grapple Weapon"]
+  },
+  {
+    "Class": "Monk",
+    "Spec": "Mistweaver",
+    "CoreAbilities": ["Roll", "Paralysis", "Touch of Death", "Fortifying Brew"],
+    "SpecTalents": ["Enveloping Mist", "Essence Font"],
+    "HeroTalents": ["Shado-Pan", "Clouded Focus", "Stormstout"],
+    "PvPTalents": ["Alpha Tiger", "Turbo Fists", "Dome of Mist", "Eminence", "Grapple Weapon"]
+  },
+  {
+    "Class": "Monk",
+    "Spec": "Windwalker",
+    "CoreAbilities": ["Roll", "Paralysis", "Touch of Death", "Fortifying Brew"],
+    "SpecTalents": ["Rising Sun Kick", "Fists of Fury"],
+    "HeroTalents": ["Shado-Pan", "Clouded Focus", "Stormstout"],
+    "PvPTalents": ["Alpha Tiger", "Turbo Fists", "Dome of Mist", "Eminence", "Grapple Weapon"]
+  },
+  {
+    "Class": "Paladin",
+    "Spec": "Holy",
+    "CoreAbilities": ["Judgment", "Crusader Strike", "Divine Shield", "Lay on Hands", "Blessings"],
+    "SpecTalents": ["Holy Shock", "Light of Dawn"],
+    "HeroTalents": ["Lightsmith", "Templar", "Herald of the Sun"],
+    "PvPTalents": ["Blessing of Sanctuary", "Luminescence", "Lawbringer", "Divine Favor", "Ultimate Sacrifice"]
+  },
+  {
+    "Class": "Paladin",
+    "Spec": "Protection",
+    "CoreAbilities": ["Judgment", "Crusader Strike", "Divine Shield", "Lay on Hands", "Blessings"],
+    "SpecTalents": ["Shield of the Righteous", "Avenger’s Shield"],
+    "HeroTalents": ["Lightsmith", "Templar", "Herald of the Sun"],
+    "PvPTalents": ["Blessing of Sanctuary", "Luminescence", "Lawbringer", "Divine Favor", "Ultimate Sacrifice"]
+  },
+  {
+    "Class": "Paladin",
+    "Spec": "Retribution",
+    "CoreAbilities": ["Judgment", "Crusader Strike", "Divine Shield", "Lay on Hands", "Blessings"],
+    "SpecTalents": ["Blade of Justice", "Templar’s Verdict"],
+    "HeroTalents": ["Lightsmith", "Templar", "Herald of the Sun"],
+    "PvPTalents": ["Blessing of Sanctuary", "Luminescence", "Lawbringer", "Divine Favor", "Ultimate Sacrifice"]
+  },
+  {
+    "Class": "Priest",
+    "Spec": "Discipline",
+    "CoreAbilities": ["Power Word: Shield", "Smite", "Psychic Scream", "Fade"],
+    "SpecTalents": ["Penance", "Atonement"],
+    "HeroTalents": ["Oracle", "Voidweaver", "Archon"],
+    "PvPTalents": ["Purification", "Premonition", "Dark Archangel", "Purge the Wicked", "Thoughtsteal"]
+  },
+  {
+    "Class": "Priest",
+    "Spec": "Holy",
+    "CoreAbilities": ["Power Word: Shield", "Smite", "Psychic Scream", "Fade"],
+    "SpecTalents": ["Holy Word: Serenity", "Prayer of Healing"],
+    "HeroTalents": ["Oracle", "Voidweaver", "Archon"],
+    "PvPTalents": ["Purification", "Premonition", "Dark Archangel", "Purge the Wicked", "Thoughtsteal"]
+  },
+  {
+    "Class": "Priest",
+    "Spec": "Shadow",
+    "CoreAbilities": ["Power Word: Shield", "Smite", "Psychic Scream", "Fade"],
+    "SpecTalents": ["Vampiric Touch", "Devouring Plague", "Voidform"],
+    "HeroTalents": ["Oracle", "Voidweaver", "Archon"],
+    "PvPTalents": ["Purification", "Premonition", "Dark Archangel", "Purge the Wicked", "Thoughtsteal"]
+  },
+  {
+    "Class": "Rogue",
+    "Spec": "Assassination",
+    "CoreAbilities": ["Stealth", "Sap", "Kick", "Cloak of Shadows", "Evasion"],
+    "SpecTalents": ["Mutilate", "Envenom", "Vendetta"],
+    "HeroTalents": ["Deathstalker", "Buccaneer", "Nightslayer"],
+    "PvPTalents": ["Smoke Bomb", "Maneuverability", "Dismantle", "Control is King", "Veil of Midnight"]
+  },
+  {
+    "Class": "Rogue",
+    "Spec": "Outlaw",
+    "CoreAbilities": ["Stealth", "Sap", "Kick", "Cloak of Shadows", "Evasion"],
+    "SpecTalents": ["Sinister Strike", "Roll the Bones", "Blade Flurry"],
+    "HeroTalents": ["Deathstalker", "Buccaneer", "Nightslayer"],
+    "PvPTalents": ["Smoke Bomb", "Maneuverability", "Dismantle", "Control is King", "Veil of Midnight"]
+  },
+  {
+    "Class": "Rogue",
+    "Spec": "Subtlety",
+    "CoreAbilities": ["Stealth", "Sap", "Kick", "Cloak of Shadows", "Evasion"],
+    "SpecTalents": ["Shadowstrike", "Eviscerate", "Shadow Dance"],
+    "HeroTalents": ["Deathstalker", "Buccaneer", "Nightslayer"],
+    "PvPTalents": ["Smoke Bomb", "Maneuverability", "Dismantle", "Control is King", "Veil of Midnight"]
+  }
+]

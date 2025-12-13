@@ -1,0 +1,678 @@
+{
+  "name:spell:204330": {
+    "count": 6,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:204330"
+      },
+      {
+        "spellName": "spell:204330"
+      },
+      {
+        "spellName": "spell:204330"
+      },
+      {
+        "spellName": "spell:204330"
+      },
+      {
+        "spellName": "spell:204330"
+      }
+    ]
+  },
+  "name:Windfury Weapon": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Windfury Weapon"
+      }
+    ]
+  },
+  "name:spell:192106": {
+    "count": 9,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:192106"
+      },
+      {
+        "spellName": "spell:192106"
+      },
+      {
+        "spellName": "spell:192106"
+      },
+      {
+        "spellName": "spell:192106"
+      },
+      {
+        "spellName": "spell:192106"
+      }
+    ]
+  },
+  "name:spell:104318": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:104318"
+      }
+    ]
+  },
+  "name:Sacred Flame's Ward": {
+    "count": 6,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Sacred Flame's Ward"
+      },
+      {
+        "spellName": "Sacred Flame's Ward"
+      },
+      {
+        "spellName": "Sacred Flame's Ward"
+      },
+      {
+        "spellName": "Sacred Flame's Ward"
+      },
+      {
+        "spellName": "Sacred Flame's Ward"
+      }
+    ]
+  },
+  "name:Prismatic Null Stone": {
+    "count": 6,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Prismatic Null Stone"
+      },
+      {
+        "spellName": "Prismatic Null Stone"
+      },
+      {
+        "spellName": "Prismatic Null Stone"
+      },
+      {
+        "spellName": "Prismatic Null Stone"
+      },
+      {
+        "spellName": "Prismatic Null Stone"
+      }
+    ]
+  },
+  "name:Sign of the Emissary": {
+    "count": 4,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Sign of the Emissary"
+      },
+      {
+        "spellName": "Sign of the Emissary"
+      },
+      {
+        "spellName": "Sign of the Emissary"
+      },
+      {
+        "spellName": "Sign of the Emissary"
+      }
+    ]
+  },
+  "name:Sign of Azeroth": {
+    "count": 4,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Sign of Azeroth"
+      },
+      {
+        "spellName": "Sign of Azeroth"
+      },
+      {
+        "spellName": "Sign of Azeroth"
+      },
+      {
+        "spellName": "Sign of Azeroth"
+      }
+    ]
+  },
+  "name:Ethereal Reaping": {
+    "count": 5,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Ethereal Reaping"
+      },
+      {
+        "spellName": "Ethereal Reaping"
+      },
+      {
+        "spellName": "Ethereal Reaping"
+      },
+      {
+        "spellName": "Ethereal Reaping"
+      },
+      {
+        "spellName": "Ethereal Reaping"
+      }
+    ]
+  },
+  "name:spell:974": {
+    "count": 5,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:974"
+      },
+      {
+        "spellName": "spell:974"
+      },
+      {
+        "spellName": "spell:974"
+      },
+      {
+        "spellName": "spell:974"
+      },
+      {
+        "spellName": "spell:974"
+      }
+    ]
+  },
+  "name:Earth Elemental": {
+    "count": 6,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Earth Elemental"
+      },
+      {
+        "spellName": "Earth Elemental"
+      },
+      {
+        "spellName": "Earth Elemental"
+      },
+      {
+        "spellName": "Earth Elemental"
+      },
+      {
+        "spellName": "Earth Elemental"
+      }
+    ]
+  },
+  "name:Find Minerals": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Find Minerals"
+      },
+      {
+        "spellName": "Find Minerals"
+      },
+      {
+        "spellName": "Find Minerals"
+      }
+    ]
+  },
+  "name:Flurry": {
+    "count": 44,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Flurry"
+      },
+      {
+        "spellName": "Flurry"
+      },
+      {
+        "spellName": "Flurry"
+      },
+      {
+        "spellName": "Flurry"
+      },
+      {
+        "spellName": "Flurry"
+      }
+    ]
+  },
+  "name:Forceful Winds": {
+    "count": 14,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Forceful Winds"
+      },
+      {
+        "spellName": "Forceful Winds"
+      },
+      {
+        "spellName": "Forceful Winds"
+      },
+      {
+        "spellName": "Forceful Winds"
+      },
+      {
+        "spellName": "Forceful Winds"
+      }
+    ]
+  },
+  "name:Authority of Radiant Power": {
+    "count": 5,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Authority of Radiant Power"
+      },
+      {
+        "spellName": "Authority of Radiant Power"
+      },
+      {
+        "spellName": "Authority of Radiant Power"
+      },
+      {
+        "spellName": "Authority of Radiant Power"
+      },
+      {
+        "spellName": "Authority of Radiant Power"
+      }
+    ]
+  },
+  "name:Maelstrom Weapon": {
+    "count": 7,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Maelstrom Weapon"
+      },
+      {
+        "spellName": "Maelstrom Weapon"
+      },
+      {
+        "spellName": "Maelstrom Weapon"
+      },
+      {
+        "spellName": "Maelstrom Weapon"
+      },
+      {
+        "spellName": "Maelstrom Weapon"
+      }
+    ]
+  },
+  "name:Legacy of the Frost Witch": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Legacy of the Frost Witch"
+      },
+      {
+        "spellName": "Legacy of the Frost Witch"
+      },
+      {
+        "spellName": "Legacy of the Frost Witch"
+      }
+    ]
+  },
+  "name:spell:403": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:403"
+      },
+      {
+        "spellName": "spell:403"
+      },
+      {
+        "spellName": "spell:403"
+      }
+    ]
+  },
+  "name:spell:17364": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:17364"
+      },
+      {
+        "spellName": "spell:17364"
+      },
+      {
+        "spellName": "spell:17364"
+      }
+    ]
+  },
+  "name:Lightning Rod": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Lightning Rod"
+      },
+      {
+        "spellName": "Lightning Rod"
+      },
+      {
+        "spellName": "Lightning Rod"
+      }
+    ]
+  },
+  "name:Awakening Storms": {
+    "count": 2,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Awakening Storms"
+      },
+      {
+        "spellName": "Awakening Storms"
+      }
+    ]
+  },
+  "name:Hailstorm": {
+    "count": 7,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Hailstorm"
+      },
+      {
+        "spellName": "Hailstorm"
+      },
+      {
+        "spellName": "Hailstorm"
+      },
+      {
+        "spellName": "Hailstorm"
+      },
+      {
+        "spellName": "Hailstorm"
+      }
+    ]
+  },
+  "name:Unlimited Power": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Unlimited Power"
+      },
+      {
+        "spellName": "Unlimited Power"
+      },
+      {
+        "spellName": "Unlimited Power"
+      }
+    ]
+  },
+  "name:spell:8050": {
+    "count": 6,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:8050"
+      },
+      {
+        "spellName": "spell:8050"
+      },
+      {
+        "spellName": "spell:8050"
+      },
+      {
+        "spellName": "spell:8050"
+      },
+      {
+        "spellName": "spell:8050"
+      }
+    ]
+  },
+  "name:Gladiator's Badge": {
+    "count": 4,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Gladiator's Badge"
+      },
+      {
+        "spellName": "Gladiator's Badge"
+      },
+      {
+        "spellName": "Gladiator's Badge"
+      },
+      {
+        "spellName": "Gladiator's Badge"
+      }
+    ]
+  },
+  "name:Stormblast": {
+    "count": 8,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Stormblast"
+      },
+      {
+        "spellName": "Stormblast"
+      },
+      {
+        "spellName": "Stormblast"
+      },
+      {
+        "spellName": "Stormblast"
+      },
+      {
+        "spellName": "Stormblast"
+      }
+    ]
+  },
+  "name:Stormsurge": {
+    "count": 8,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Stormsurge"
+      },
+      {
+        "spellName": "Stormsurge"
+      },
+      {
+        "spellName": "Stormsurge"
+      },
+      {
+        "spellName": "Stormsurge"
+      },
+      {
+        "spellName": "Stormsurge"
+      }
+    ]
+  },
+  "name:Purge": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Purge"
+      }
+    ]
+  },
+  "name:Lightning Lasso": {
+    "count": 2,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Lightning Lasso"
+      },
+      {
+        "spellName": "Lightning Lasso"
+      }
+    ]
+  },
+  "name:Earthgrab Totem": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Earthgrab Totem"
+      }
+    ]
+  },
+  "name:Primordial Bond": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Primordial Bond"
+      }
+    ]
+  },
+  "name:spell:192058": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:192058"
+      }
+    ]
+  },
+  "name:spell:342240": {
+    "count": 4,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:342240"
+      },
+      {
+        "spellName": "spell:342240"
+      },
+      {
+        "spellName": "spell:342240"
+      },
+      {
+        "spellName": "spell:342240"
+      }
+    ]
+  },
+  "name:Electroshock": {
+    "count": 2,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Electroshock"
+      },
+      {
+        "spellName": "Electroshock"
+      }
+    ]
+  },
+  "name:spell:51533": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:51533"
+      }
+    ]
+  },
+  "name:Tempest": {
+    "count": 3,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Tempest"
+      },
+      {
+        "spellName": "Tempest"
+      },
+      {
+        "spellName": "Tempest"
+      }
+    ]
+  },
+  "name:Arc Discharge": {
+    "count": 2,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Arc Discharge"
+      },
+      {
+        "spellName": "Arc Discharge"
+      }
+    ]
+  },
+  "name:Storm Swell": {
+    "count": 2,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "Storm Swell"
+      },
+      {
+        "spellName": "Storm Swell"
+      }
+    ]
+  },
+  "name:spell:421": {
+    "count": 1,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:421"
+      }
+    ]
+  },
+  "name:spell:8056": {
+    "count": 2,
+    "first_seen": null,
+    "last_seen": null,
+    "examples": [
+      {
+        "spellName": "spell:8056"
+      },
+      {
+        "spellName": "spell:8056"
+      }
+    ]
+  }
+}

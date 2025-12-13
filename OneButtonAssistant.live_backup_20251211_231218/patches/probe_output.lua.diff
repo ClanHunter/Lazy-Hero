@@ -1,0 +1,6 @@
+==== BEFORE: probe_output.lua.bak ====
+Backup of probe_output.lua before tokenization.
+
+==== AFTER: probe_output.lua ====
+
+(Truncated content) See `probe_output.lua` for full saved capture. This diff file documents that `probe_output.lua.bak` was the backup and `probe_output.lua` is the current tokenized version.

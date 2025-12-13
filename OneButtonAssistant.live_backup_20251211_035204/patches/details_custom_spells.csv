@@ -1,0 +1,64 @@
+id,name,icon_or_number
+422779,Burning Frenzy (4P),Interface\\Addons\\Details\\images\\spells\\burning_frenzy_tier4.jpg
+7,Environment (Lava),Interface\\ICONS\\Ability_Rhyolith_Volcano
+1,Melee,Interface\\ICONS\\INV_Sword_04
+2,Auto Shot,Interface\\ICONS\\INV_Weapon_Bow_07
+4,Environment (Drowning),Interface\\ICONS\\Ability_Suffocate
+8,Environment (Slime),Interface\\ICONS\\Ability_Creature_Poison_02
+424428,Eruption (4P),Interface\\Addons\\Details\\images\\spells\\eruption_tier4.jpg
+395296,Ebon Might (on your self),Interface\\Addons\\Details\\images\\ebon_might
+5,Environment (Fatigue),Interface\\ICONS\\Spell_Arcane_MindMastery
+196917,Light of the Martyr (Damage),1360762
+77535,Blood Shield,Interface\\Addons\\Details\\images\\icon_blood_shield
+3,Environment (Falling),Interface\\ICONS\\Spell_Magic_FeatherFall
+6,Environment (Fire),Interface\\ICONS\\INV_SummerFest_FireSpirit
+98021,Health Exchange,237586
+108271,Astral Shift,Interface\\Addons\\Details\\images\\icon_astral_shift
+1245376,|T512960:14:14:0:0:14:14:1:12:1:12|t Essence-Hunter's Eye,512960
+455821,|T5248551:14:14:0:0:14:14:1:12:1:12|t Harvester's Interdic,454042
+449490,|T5948073:14:14:0:0:14:14:1:12:1:12|t Synergistic Brewteri,5948073
+449254,|T5976941:14:14:0:0:14:14:1:12:1:12|t Entropic Skardyn Cor,5976941
+448892,|T5899332:14:14:0:0:14:14:1:12:1:12|t Charged Stormrook Pl,5899332
+452310,|T5948133:14:14:0:0:14:14:1:12:1:12|t Sigil of Algari Conc,5948133
+445475,|T5948249:14:14:0:0:14:14:1:12:1:12|t Sikran's Endless Ars,1391677
+448909,|T4548852:14:14:0:0:14:14:1:12:1:12|t Ravenous Honey Buzze,4548852
+443381,|T5846566:14:14:0:0:14:14:1:12:1:12|t Cinderbrew Stein,5846566
+443539,|T5948032:14:14:0:0:14:14:1:12:1:12|t Mereldar's Toll,5948032
+451367,|T5948076:14:14:0:0:14:14:1:12:1:12|t Carved Blazikon Wax,5948076
+444264,|T5948209:14:14:0:0:14:14:1:12:1:12|t Foul Behemoth's Chel,5948209
+450706,|T1495827:14:14:0:0:14:14:1:12:1:12|t Tome of Light's Devo,1723996
+1244448,|T6012042:14:14:0:0:14:14:1:12:1:12|t Perfidious Projector,6012042
+457684,|T5948158:14:14:0:0:14:14:1:12:1:12|t Sureki Zealot's Insi,648544
+449275,|T5948041:14:14:0:0:14:14:1:12:1:12|t Empowering Crystal o,5948041
+449386,|T5948073:14:14:0:0:14:14:1:12:1:12|t Synergistic Brewteri,5948073
+451292,|T6011927:14:14:0:0:14:14:1:12:1:12|t Harvester's Edict,6011927
+449828,|T4569826:14:14:0:0:14:14:1:12:1:12|t Overclocked Gear-a-R (additional),4569826
+445434,|T5948249:14:14:0:0:14:14:1:12:1:12|t Sikran's Endless Ars,1398088
+446805,|T5948209:14:14:0:0:14:14:1:12:1:12|t Foul Behemoth's Chel,5948209
+450719,|T1495827:14:14:0:0:14:14:1:12:1:12|t Tome of Light's Devo,1495827
+1239221,|T7137532:14:14:0:0:14:14:1:12:1:12|t Diamantine Voidcore,7137532
+450696,|T1495827:14:14:0:0:14:14:1:12:1:12|t Tome of Light's Devo,1723996
+1242875,|T7137507:14:14:0:0:14:14:1:12:1:12|t Screams of a Forgott,4914668
+1234219,|T4624637:14:14:0:0:14:14:1:12:1:12|t Automatic Footbomb D,4624637
+455910,|T5319059:14:14:0:0:14:14:1:12:1:12|t Voltaic Stormcaller,5306251
+449954,|T5948071:14:14:0:0:14:14:1:12:1:12|t Treacherous Transmit,5948071
+443531,|T5948043:14:14:0:0:14:14:1:12:1:12|t Signet of the Priory,5948043
+457533,|T5426089:14:14:0:0:14:14:1:12:1:12|t Wings of Shattered S,2103878
+343393,|T133254:14:14:0:0:14:14:1:12:1:12|t Sunblood Amethyst,133254
+450969,|T5948148:14:14:0:0:14:14:1:12:1:12|t Ceaseless Swarmgland,5948148
+450429,|T5948154:14:14:0:0:14:14:1:12:1:12|t Conductor's Wax Whis,5948154
+452032,|T1305154:14:14:0:0:14:14:1:12:1:12|t Remnant of Darkness,1305154
+452337,|T6011931:14:14:0:0:14:14:1:12:1:12|t Cirral Concoctory,6011931
+443407,|T5948038:14:14:0:0:14:14:1:12:1:12|t Skarmorak Shard,5948038
+451866,|T5948197:14:14:0:0:14:14:1:12:1:12|t Aberrant Spellforge,5948197
+443124,|T5948202:14:14:0:0:14:14:1:12:1:12|t Mad Queen's Mandate,2120320
+451015,|T136202:14:14:0:0:14:14:1:12:1:12|t Oppressive Orator's ,136202
+446811,|T4569826:14:14:0:0:14:14:1:12:1:12|t Overclocked Gear-a-R,4569826
+450921,|T5929586:14:14:0:0:14:14:1:12:1:12|t High Speaker's Accre,5929586
+448669,|T4549178:14:14:0:0:14:14:1:12:1:12|t Void Reaper's Contra,136177
+447471,|T5948243:14:14:0:0:14:14:1:12:1:12|t Skyterror's Corrosiv,5948243
+452229,|T5948241:14:14:0:0:14:14:1:12:1:12|t Ara-Kara Sacbrood,5948241
+447093,|T5948252:14:14:0:0:14:14:1:12:1:12|t Swarmlord's Authorit,5948252
+451568,|T4624650:14:14:0:0:14:14:1:12:1:12|t Refracting Aggressio,4624650
+450960,|T4497562:14:14:0:0:14:14:1:12:1:12|t Void Pactstone,4497562
+457928,|T5948167:14:14:0:0:14:14:1:12:1:12|t Seal of the Poisoned,5764920

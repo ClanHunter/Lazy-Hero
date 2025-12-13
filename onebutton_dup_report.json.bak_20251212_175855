@@ -1,0 +1,1568 @@
+{
+  "dups": {
+    "b68f143b91708b304e4f0de2c1afd8c2e7af5e61d48b9058e108b01b54ac9b1b": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_accessibility.lua",
+        "sig": "\n",
+        "size": 106
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_accessibility.lua",
+        "sig": "\n",
+        "size": 106
+      }
+    ],
+    "b82fdc14aef525776f0943eef73c9bec7a529e80741fe6a77a356dcab46fbd94": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 104
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 104
+      }
+    ],
+    "ff09b42faa4a45578673fd836115f863a4fb1d92960e7d288ee1d6d113363abe": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 78
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 78
+      }
+    ],
+    "d68c91e263b1d00b4cc04c6c0fc2a209c764d6b61c99a23318246032bb16419d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 93
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 93
+      }
+    ],
+    "7a51b3e4d97ab50a06decfe7c949e776baefef412f8c842f44295b47e1597475": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 101
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 101
+      }
+    ],
+    "a8d5943af226685a53b07702457261c90565ed0ac320bff3d20ec5c0003f0f3d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 664
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 664
+      }
+    ],
+    "f04e207accf6b1a2f7ea9c883d33f92e2117b501cc8a44b17969b12f60a9be28": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 83
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 83
+      }
+    ],
+    "bbcca36aa8e7803b258d688ce96468707e5d801fb1d6b2a4096448027f46cb6c": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 102
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 102
+      }
+    ],
+    "a5451b6144cd6ffa69afc2bbd7aa8ec9d7216c22aae232bf475cb16be1ecf7db": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 107
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 107
+      }
+    ],
+    "458cce142d08d5bf7c80c83535bea7b43c6b1706357b9d124fc1ff2b5b149e5f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 75
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 75
+      }
+    ],
+    "9a91a7678ac07fd64bcc05dcdb884650b562269733fd57316b384d8584a23156": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 117
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 117
+      }
+    ],
+    "d7ea1346b7a0d2237d60c48dbec253ca4af0c69cf1a5fcab84361d12ef92234c": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 107
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 107
+      }
+    ],
+    "811101cfdaf15b16c7e8bfad12e485e4843092095813941fe123b322e1cc949a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 132
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 132
+      }
+    ],
+    "98ea1f393275fb9a3b09036d7f1c8bddacde62e1f43420e65bea0fa1ae30fbb2": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 182
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 182
+      }
+    ],
+    "90bcb80f49433ea4e71dddb2c826af9f44b2625b3b1dfe2f2ed24af6aa476c6f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 155
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 155
+      }
+    ],
+    "09b64d24875887dcfa07e7a5b5d532d0c24201a84711af7ef0899951f743ed42": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 259
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 259
+      }
+    ],
+    "baebd0e6e305d9286142ec2aefa14b02277d8916b68a1423659e4b0dae3ac3a5": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 149
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 149
+      }
+    ],
+    "7be46ac1b584b200b0938e858a6a1fa39d358d33c74ab44b45573fc81d430a56": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 498
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 498
+      }
+    ],
+    "48987ba879b9d5bd46ebb842491a22a97034e9ca0cb08ccf81f44f0fe1b95984": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 82
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 82
+      }
+    ],
+    "5429cd2587251586c7230c20727e26094d655104d117d77d988ed70eb16c1a5f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 73
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 73
+      }
+    ],
+    "52c85cc4066666ec3390fe6859588217fd1819cb54387142abd4a2ba8be38d3d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 93
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 93
+      }
+    ],
+    "12f69ff5fccf5b1c49154c5de38566fb28a8b54798627b95aaa5702b7c14f8bd": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 88
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 88
+      }
+    ],
+    "dc1404a26efe2a84375d240010ef3f7f46ae57202052a0aadfa820d25580e9f7": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 85
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+        "sig": "\n",
+        "size": 85
+      }
+    ],
+    "1e8ecc8a6aa226cde87ff68c51db559ddfaeb21550dfeb536ab2b000ba391a4f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 196
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 196
+      }
+    ],
+    "e885a02f917954551b9957956013fa6f5a0834ea0c3719e15b42e449f434667b": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 240
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 240
+      }
+    ],
+    "98b0382864ae7f22dddfd0a74f17dc8b2d95290162a3b229c3b1c313bee4aa26": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 314
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 314
+      }
+    ],
+    "5c646b1d555dbbe3191cb1626e02899bc642bc6b90c0a3362d5955b1ad031e8a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 81
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 81
+      }
+    ],
+    "cd47a3a81f631d583251087ac7f1208f3222aba36119136d6d2ba6fe36b7cab5": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 82
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 82
+      }
+    ],
+    "bfce89b501c75839c585b6b8a0419509ec56b60fc691da9ac462653cac5eea44": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 144
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 144
+      }
+    ],
+    "a851e40b82cab4c2f6985193b322122441f755890db15bb04ab166753b9c2614": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 254
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 254
+      }
+    ],
+    "d5c86ae77d5159ebd790c7a93da0906a4177ff29952afdef174b70e7a06d1527": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 147
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+        "sig": "\n",
+        "size": 147
+      }
+    ],
+    "6ea7e453e02a719658c422a0b225e2e9d9d958caee0377bfcc13f482a8332a2d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_capture.lua",
+        "sig": "\n",
+        "size": 66
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_capture.lua",
+        "sig": "\n",
+        "size": 66
+      }
+    ],
+    "baa0aff7641f94493ac1e7e9a2ff112f70c976f83c880f3b3a0ee6656bf9c4cd": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 407
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 407
+      }
+    ],
+    "dfcb217634db23ffaa91637f8cb66bada400c88d120b400fa126977245e1c85d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 88
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 88
+      }
+    ],
+    "96764eff25b56f82b6c82a525490cb1fa8f5206f1f1858cdb65951b27588b4fc": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 361
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 361
+      }
+    ],
+    "65be5cc215d398a4f06014156f389a39fb609e974996d7ad75f5884dda6d34e7": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 172
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 172
+      }
+    ],
+    "b2d8cda59ffacafb28de69c3c998f5bc136eb59959095e2f7c842af4901e861d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 125
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 125
+      }
+    ],
+    "e012369e527a96ac2662dcc222163979a1474e4adcdaa97b676405c580ee1c6a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 139
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 139
+      }
+    ],
+    "4c50887c162c43b023455adddc8de4a5f9934701e66411efedc122e892a9a4c1": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 116
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 116
+      }
+    ],
+    "c74af7b641fee669363dee08e6c33f7e7cd890125c51ffb94806454e96682ad4": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 75
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 75
+      }
+    ],
+    "69075f878470185c6bdfb9ebdf762ad65e80f2215ad0519ee772fec429f0096f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 74
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 74
+      }
+    ],
+    "40a40180118eff503c574b76b4ee7c9e0de44ff1f0e069ee2070bab57620ff8a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 171
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 171
+      }
+    ],
+    "1817d892060b69cf5bfa784324180463b324f0c494ea2fe34a6a5edd59d26865": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 238
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 238
+      }
+    ],
+    "aab6e2032b261825721d782930316e7a6af7e4b7bbfe59366691af4ba47ce7aa": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 425
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 425
+      }
+    ],
+    "898c73eb20543b5ed474a9e0e6242e386a4a93f6d0ff47b239903a6ea92f60ea": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 179
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 179
+      }
+    ],
+    "57348d49ce7e4387ce4b1a487dfe3f5e0d9ffe2838c6509785e92322ac248cec": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 397
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 397
+      }
+    ],
+    "0ed74a4d60bd799cb45ebc638a938b54037a4997dfec65cd04c065604590971d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 285
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 285
+      }
+    ],
+    "71e4225bb7b119cebac5eac847b86db5f64d1bc0af24d07c6cdac9ee84f576bb": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 160
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 160
+      }
+    ],
+    "23d6f94b5963acd11badb28cf4f495802b201597500ae737753f028459c0fc98": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 250
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 250
+      }
+    ],
+    "f9a171c25798c1b8933272de935c62ea29c62ede12637b029c9bdc3b7f1d833a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 248
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 248
+      }
+    ],
+    "917e718f7b1ad56c86b3577644e6c9b532fe8dba901398a105ff2b5325f3dd87": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 103
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 103
+      }
+    ],
+    "d643ab5360027ff8ae52410fc9d72f2a3f7835d820fe5359f8e0eb99365564e9": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 143
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+        "sig": "\n",
+        "size": 143
+      }
+    ],
+    "7e5196f259d3ca829cbaec5cf36b1a69ad000fbb2ff1d5ff06b470359bfec0f7": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 73
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 73
+      }
+    ],
+    "42098961cd2ef49c8702b765280ca60d7e2f285ffc067ebfc6b06590d4cc976b": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 82
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 82
+      }
+    ],
+    "9fd6b9d41e1a8c662f78a4a5f18103fceafc55ef6ad21bd2909c9c8148a2fb11": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 141
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 141
+      }
+    ],
+    "0655d7e0dd0c9da7c0ef8bda8acfb0a007a04d555125a0090f9835fb51c7d4c7": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 131
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 131
+      }
+    ],
+    "5b76c155e92d5cd0ad83a09a39d21dec99f3b1f59e35805c08e04fd583f20198": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 103
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 103
+      }
+    ],
+    "50a5b94408a961b9b6dd312320f49edf4c0637141e0177a8f3bae474e0fe787c": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 66
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 66
+      }
+    ],
+    "af1822c2e3419461b7cf12f0dd64b2f7bc1077050de37600d8405d7dee10e6c6": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 696
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 696
+      }
+    ],
+    "0efcd468d67130b1553aafaa81662fbe3e82a2127a4f6a542767e40e8430bc5b": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 90
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 90
+      }
+    ],
+    "ae8f30533e3fc7afbf102f2601760e00bbe5c37783a0d37ff596027b9005479e": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 80
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 80
+      }
+    ],
+    "6550c0add24a1cad35d9d193d15a41ded1a6df59d07010d716ede43e2b2a4e65": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 678
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 678
+      }
+    ],
+    "fb075ad369c41ebcb0e942dff83c05cbde40b4f17e60047738f96b9d8477a421": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 82
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+        "sig": "\n",
+        "size": 82
+      }
+    ],
+    "fb4ed2e05112101e074503c535678c0593ce0d0c8307127174821cc6241aaee9": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_icon_browser.lua",
+        "sig": "\n",
+        "size": 140
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_icon_browser.lua",
+        "sig": "\n",
+        "size": 140
+      }
+    ],
+    "5414caede8aaf14c31db30f7e74f9c79d5f656e4a5933a229d06f9d97242eb37": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_logger.lua",
+        "sig": "\n",
+        "size": 164
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_logger.lua",
+        "sig": "\n",
+        "size": 164
+      }
+    ],
+    "27f61bfd7a24f9bc5509a4d441fc7ead911bd217f99404dc50f73225cf69af86": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_logger.lua",
+        "sig": "\n",
+        "size": 60
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_logger.lua",
+        "sig": "\n",
+        "size": 60
+      }
+    ],
+    "f2db754e95387f39d7ca8b37f2f375d67c7c2fd54f2eebe5b12d2a2de540059c": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 99
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 99
+      }
+    ],
+    "812e1ffa027acc97eee7f093202c8f9695292a32ae56352541e84d14925ef401": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 260
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 260
+      }
+    ],
+    "8641ea15fc6a87f6f0cc74dee709add91ea66acdb4c826e9d38c1f653b5ac2ea": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 89
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 89
+      }
+    ],
+    "22878e256eb1929aec700b261e3d1a063322606d0a14bcc4267da1224e1e129b": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 73
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 73
+      }
+    ],
+    "d3e99d9e4cae2c5dd54fa51ea422eda10af28dd05bd4fb2b994d6b52fbb9087b": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 140
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 140
+      }
+    ],
+    "905b8184f264de1a9203490fc5f92d370b8978808cb4682db943c2fa4a16d724": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 122
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+        "sig": "\n",
+        "size": 122
+      }
+    ],
+    "11ad3674a7badecefeabe964cf92fc82023b2f8811a3ad97b21e1f9b65ce51db": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_ui.lua",
+        "sig": "\n",
+        "size": 135
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_ui.lua",
+        "sig": "\n",
+        "size": 135
+      }
+    ],
+    "b14caf7e72d71f936d1bc04385209b8fd206cf92e8bb7e2086f61c41622a7602": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\details_adapter.lua",
+        "sig": "\n",
+        "size": 108
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\details_adapter.lua",
+        "sig": "\n",
+        "size": 108
+      }
+    ],
+    "68a26e3bf82c1b3e590900683df82a6c086671edf3f507b3538c0e25c152c777": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\details_adapter.lua",
+        "sig": "\n",
+        "size": 90
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\details_adapter.lua",
+        "sig": "\n",
+        "size": 90
+      }
+    ],
+    "09bca39ec8e01e010c479ef4a28fd19cfc600b6ea54750688f159908f43772e3": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\details_adapter.lua",
+        "sig": "\n",
+        "size": 167
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\details_adapter.lua",
+        "sig": "\n",
+        "size": 167
+      }
+    ],
+    "c69fac8a24ed6a4cf42357faffe30d1900fdc24fc74cf02297c8a35c1e0857dc": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 125
+      },
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 126
+      },
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 126
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 125
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 126
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 126
+      }
+    ],
+    "29280014201006d69b9083613dbffb036405657640dbc43aae6bc727a3da0597": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 148
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 149
+      }
+    ],
+    "aa53d85b84d96f6d79e1987180c2aa25a97c1625229d99bfd8d46c0b290abb6f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 565
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 565
+      }
+    ],
+    "90cab2f3b2adac49a7d762142c275d53eb007fa889d3e2930bacfab6f1eaec9c": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 116
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 116
+      }
+    ],
+    "21f3c58e4166b74a52972c640a8454b8150159c685bb995a2a47476a7fa94cdc": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 450
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 450
+      }
+    ],
+    "4a3b0b881db7a5fb39c24bd8be0d4c890c0b741688e3b5d89bd98d68893cceb5": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 160
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+        "sig": "\n",
+        "size": 160
+      }
+    ],
+    "e5acf2e27065848d4a68efabe7aa594b0525132f63011248015142455b2eb69c": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 112
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 112
+      }
+    ],
+    "9d4c8b3a741e14330452208121b97da4ee364ad9d0bcb3d2e0ea1b76fadbc633": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 536
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 536
+      }
+    ],
+    "c9c9b6b5251ad031a374b189b8b96ff3dd66bb44bebb7d2986769689e11499d8": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 180
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 180
+      }
+    ],
+    "d27a52ea4a5a43417c768a5b93650dcf47644ccb09cf2696cb17489633b7b096": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 177
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+        "sig": "\n",
+        "size": 177
+      }
+    ],
+    "6222be25b6914b6a71d72318c887203f934cb155976774e199d6f8c48b8c102a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+        "sig": "\n",
+        "size": 106
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+        "sig": "\n",
+        "size": 106
+      }
+    ],
+    "ef535effbfda48e4dbca0a625eeebd409e208b0711f1a2a81b8bb2a63d576927": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+        "sig": "\n",
+        "size": 150
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+        "sig": "\n",
+        "size": 150
+      }
+    ],
+    "610de8ef1efcb70d897f2fbca50ab89121fd4469c689cabf4867a6c920f9c489": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+        "sig": "\n",
+        "size": 377
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+        "sig": "\n",
+        "size": 377
+      }
+    ],
+    "7524cdc3bfba8d12270620f465a1d034e50590abb297405341c4f83f073d249f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 67
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 67
+      }
+    ],
+    "8286a6a241b728d962d707f84a5fc26093609ddc53b7195841f43d793a7d01ec": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 68
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 68
+      }
+    ],
+    "a41dcab11f9a2d7087526852525008341db8f19e2012912e7c118c3b08d2db4a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 520
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 520
+      }
+    ],
+    "bbe19d246f586fa77d2feba0f04d5ceb4951abf533360a445f0a92a91a7bf5fd": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 159
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 159
+      }
+    ],
+    "dae6c749bf2fa13a3c16354e957acd0ad4793dea37554ca18e64c20d36df3d48": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 55
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 55
+      }
+    ],
+    "9a523a56135bf85007c5b89935b5bc5057a5198af36fd7a6d33fe66f318b5564": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 59
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 59
+      }
+    ],
+    "a9c774ad2f28b8fae6686b35bcfd3abf2e6a30d287c59598c95c803fb8007e52": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 64
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 64
+      }
+    ],
+    "16bef671f83a479003ea09afcef841cf80cc198626a95ebdcc97cd85928f7d43": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 318
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 318
+      }
+    ],
+    "12bc3f5c35013ab4a557e86220c39062a70a7114e4c20c7002b2e1c370428dc4": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 60
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 60
+      }
+    ],
+    "cbbdca87a89b86ec32519fb7eb1b34b96f3887ac410897bcc63513b87d1c7687": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 63
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 63
+      }
+    ],
+    "0b441c87e867db8ca98de59af27632bcb28dd93e71529f32dcff483435381423": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 75
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+        "sig": "\n",
+        "size": 75
+      }
+    ],
+    "38f6564b3c8a6ce4c7f4119435a167b56f384ab387a5907a4116071eb4d8cb8a": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 50
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 50
+      }
+    ],
+    "6365f0bdc5e5a11e48454a7f35dd698162a5a7c57d326d4d5177677078cc4911": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 152
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 152
+      }
+    ],
+    "bb013b839ba5333891b41e09d831a9f791ee74b1772ecc8a63d97a988d3cb87f": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 56
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 56
+      }
+    ],
+    "83c1caad73c7b4d85a543fb23e55d37ab17aa00f477fcb59f32dc593a6dcd0a0": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 103
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 103
+      }
+    ],
+    "95e2c471d93eb9766e6f1b9c822e7e59007974504a64072b837a07582f5c5297": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 114
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+        "sig": "\n",
+        "size": 114
+      }
+    ],
+    "12929d0214b8f3a41dda9295a0a55b5692d10801d5682f5d0ccec4d5c8d3af8e": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 114
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 114
+      }
+    ],
+    "cbef606ee1d7f06662b8e05c4cce9a44666fe05f0d76aed70b8ad9e34e958621": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 207
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 207
+      }
+    ],
+    "15de00c3c54279e706039948654ec8195d36b5e27b4a3a9324afae8b096da0ad": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 654
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 654
+      }
+    ],
+    "7157fbc787144cbf55fc358b5867d2fd20230afc747d9bd23240c08a5b131c27": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 174
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 174
+      }
+    ],
+    "cffb38d527267932566b8e606652737121eb774c4991f8056128e9ca2771f81d": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 445
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+        "sig": "\n",
+        "size": 445
+      }
+    ],
+    "22e9646a9898498eef071e8d23778aa35dd567eb2a3c8645de79e10b1b9bbff7": [
+      {
+        "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\examples\\weak_auras_hook.lua",
+        "sig": "\n",
+        "size": 145
+      },
+      {
+        "file": "C:/Lazy Hero/OneButtonAssistant\\examples\\weak_auras_hook.lua",
+        "sig": "\n",
+        "size": 145
+      }
+    ]
+  },
+  "issues": [
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+      "functions": 31,
+      "end": 132
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_button.lua",
+      "functions": 66,
+      "end": 137
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_capture.lua",
+      "functions": 3,
+      "end": 12
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_core.lua",
+      "functions": 79,
+      "end": 299
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+      "functions": 16,
+      "end": 105
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_icon_browser.lua",
+      "functions": 4,
+      "end": 8
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_logger.lua",
+      "functions": 2,
+      "end": 3
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+      "functions": 8,
+      "end": 33
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\OneButtonAssistant_ui.lua",
+      "functions": 1,
+      "end": 3
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\probe_output.lua",
+      "functions": 634,
+      "end": 0
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\details_adapter.lua",
+      "functions": 4,
+      "end": 5
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\gse_adapter.lua",
+      "functions": 14,
+      "end": 43
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+      "functions": 9,
+      "end": 50
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+      "functions": 5,
+      "end": 14
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+      "functions": 13,
+      "end": 38
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+      "functions": 6,
+      "end": 20
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+      "functions": 10,
+      "end": 23
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\savedvars\\Details.lua",
+      "functions": 0,
+      "end": 111
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\savedvars\\OneButtonAssistant.lua",
+      "functions": 1902,
+      "end": 0
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\saved_exports\\agentExport_283600-2402.lua",
+      "functions": 634,
+      "end": 0
+    },
+    {
+      "file": "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/OneButtonAssistant\\saved_exports\\agentExport_296367-1706.lua",
+      "functions": 634,
+      "end": 0
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_bglogger.lua",
+      "functions": 31,
+      "end": 132
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_button.lua",
+      "functions": 66,
+      "end": 137
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_capture.lua",
+      "functions": 3,
+      "end": 12
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_core.lua",
+      "functions": 79,
+      "end": 299
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_engine.lua",
+      "functions": 16,
+      "end": 105
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_icon_browser.lua",
+      "functions": 4,
+      "end": 8
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_logger.lua",
+      "functions": 2,
+      "end": 3
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_spellspy.lua",
+      "functions": 8,
+      "end": 33
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\OneButtonAssistant_ui.lua",
+      "functions": 1,
+      "end": 3
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\probe_output.lua",
+      "functions": 634,
+      "end": 0
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\details_adapter.lua",
+      "functions": 4,
+      "end": 5
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\gse_adapter.lua",
+      "functions": 14,
+      "end": 43
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\hekili_adapter.lua",
+      "functions": 9,
+      "end": 50
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\player_state_adapter.lua",
+      "functions": 5,
+      "end": 14
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\shared_adapter_helpers.lua",
+      "functions": 23,
+      "end": 95
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\spellspy_adapter.lua",
+      "functions": 6,
+      "end": 20
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\adapters\\weak_auras_adapter.lua",
+      "functions": 10,
+      "end": 23
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\savedvars\\Details.lua",
+      "functions": 0,
+      "end": 111
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\savedvars\\OneButtonAssistant.lua",
+      "functions": 1902,
+      "end": 0
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\saved_exports\\agentExport_283600-2402.lua",
+      "functions": 634,
+      "end": 0
+    },
+    {
+      "file": "C:/Lazy Hero/OneButtonAssistant\\saved_exports\\agentExport_296367-1706.lua",
+      "functions": 634,
+      "end": 0
+    }
+  ]
+}

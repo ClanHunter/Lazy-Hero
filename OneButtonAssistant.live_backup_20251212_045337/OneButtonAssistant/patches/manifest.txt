@@ -1,0 +1,13 @@
+OneButtonAssistant_core.lua.diff
+OneButtonAssistant_engine.lua.diff
+probe_output.lua.diff
+inputs_spells.csv.diff
+Enhancement_Shaman_Rotation.md.diff
+WAR_WITHIN_QuickRef_PvP.md.diff
+WAR_WITHIN_class_matrix.csv.diff
+WAR_WITHIN_Class_Handbook.md.diff
+WAR_WITHIN_Class_Comparison.md.diff
+
+Notes:
+- Backups are preserved as .bak files alongside the originals.
+- Each .diff file contains a simple BEFORE header referencing the .bak file and an AFTER note referencing the current file. For large files (engine, probe_output, docs) refer to the repository file for full content.

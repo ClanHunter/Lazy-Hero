@@ -1,0 +1,11 @@
+==== BEFORE: inputs/spells.csv.bak ====
+"Flame Shock",8050
+"Counterspell",2139
+"Kick",1766
+
+==== AFTER: inputs/spells.csv ====
+"spell:8050",8050
+"Counterspell",2139
+"Kick",1766
+
+(backup preserved as `inputs/spells.csv.bak`)

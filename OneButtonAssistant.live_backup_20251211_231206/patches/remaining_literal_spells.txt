@@ -1,0 +1,57 @@
+Report: Remaining literal spell-name matches (repo search)
+=========================================================
+
+Summary:
+- A workspace search for common spell names returned 200 matches (search tool cap at 200).
+- Many matches are in documentation (`WAR_WITHIN_Class_Handbook.md`, `Enhancement_Shaman_Rotation.md`), sample captures (`probe_output.lua`), and CSV inputs/outputs.
+- This file collects representative matches and recommended next steps for finishing tokenization.
+
+Note: The search was capped at 200 results by the tool; there may be additional occurrences beyond this cap.
+
+Top files with literal spell names (representative examples):
+- OneButtonAssistant\WAR_WITHIN_Class_Handbook.md
+  - "Frost: Core — Frostbolt, Ice Lance, Flurry, Blizzard"
+  - "Wind Shear (interrupt)"
+
+- OneButtonAssistant\docs\Enhancement_Shaman_Rotation.md
+  - Several occurrences where human-readable names remain (Windstrike, Flame Shock, Stormstrike, Ice Strike, Feral Spirit, Doom Winds, Ascendance, Crash Lightning, Lava Lash, Lightning Bolt, Chain Lightning, Maelstrom Weapon, Windstrike references). Many of these have nearby `spell:<id>` tokens already; these are primarily prose occurrences.
+
+- OneButtonAssistant\probe_output.lua
+  - Many `"spellName" = "Flurry"`, `"Earth Elemental"`, `"Windfury Weapon"`, `"Lightning Rod"`, etc. These are saved capture log lines and may intentionally contain raw names.
+
+- OneButtonAssistant\inputs\enhancement_shaman_spells.csv
+  - CSV contains rows like "Lightning Bolt,403", "Chain Lightning,421", "Flame Shock,8050", etc. (these are mapping inputs and are expected to contain names)
+
+- OneButtonAssistant\OneButtonAssistant_engine.lua
+  - A few comment or token-normalization helper lines still reference readable names such as "Flurry", "Wind Shear", "Lava Burst", etc.
+
+- Other outputs/metadata: `outputs/pvp_quickref.json`, `outputs/pvp_quickref.csv` contain talent/spell names in prose formatting.
+
+Recommendations / next steps:
+1) Decide scope for tokenization:
+   - Code & engine files: safe to convert literal names when they represent canonical spell usage (replace with `spell:<id>` where known).
+   - Saved-capture logs (`probe_output.lua`) and CSV inputs: you may want to keep human-readable names for readability, or add a parallel `spellId` field instead.
+   - Documentation (`.md`) should generally remain human-readable; where you want locale-stable cross-references, add `spell:<id>` tokens adjacent to names (the repo already does this in many places).
+
+2) If you want me to continue: I can either
+   - Auto-tokenize code files only (create `.bak` and diffs as before), or
+   - Produce a complete searchable manifest of all matches (exhaustively, beyond the 200-result cap), or
+   - Leave docs and CSVs as-is and only finish engine/core tokenization.
+
+3) For saved captures we can add an optional normalization pass in `tools/` to convert `spellName` → `spell:<id>` + `spellId` where `GetSpellInfo` mapping is available offline via `inputs/spells.csv`.
+
+Representative matched lines (sample):
+- OneButtonAssistant\WAR_WITHIN_Class_Handbook.md:182: "Frost: Core — Frostbolt, Ice Lance, Flurry, Blizzard"
+- OneButtonAssistant\WAR_WITHIN_Class_Handbook.md:340: "- Wind Shear (interrupt)"
+- OneButtonAssistant\docs\Enhancement_Shaman_Rotation.md:9: "... spender abilities such as `spell:403` (Lightning Bolt) and `spell:421` (Chain Lightning) ..."
+- OneButtonAssistant\docs\Enhancement_Shaman_Rotation.md:29: "... focus entirely on Windstrike ..."
+- OneButtonAssistant\docs\Enhancement_Shaman_Rotation.md:32: "- Cast `spell:8050` (Flame Shock) on the way into melee"
+- OneButtonAssistant\probe_output.lua:110: ["spellName"] = "Windfury Weapon",
+- OneButtonAssistant\probe_output.lua:213: ["spellName"] = "Earth Elemental",
+- OneButtonAssistant\inputs\enhancement_shaman_spells.csv:2: Lightning Bolt,403
+- OneButtonAssistant\inputs\enhancement_shaman_spells.csv:4: Flame Shock,8050
+- OneButtonAssistant\OneButtonAssistant_engine.lua:362: flurry = { MAGE = {"Flurry"} },
+
+If you'd like a fully exhaustive list (no cap), I can run incremental searches per-file and produce an exact manifest, or I can begin auto-tokenizing code files now. Tell me which option you prefer.
+
+Generated: c:\Lazy Hero\OneButtonAssistant\patches\remaining_literal_spells.txt

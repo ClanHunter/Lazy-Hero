@@ -1,0 +1,42 @@
+{
+  "C:\\Lazy Hero\\OneButtonAssistant\\adapters\\gse_adapter.lua": {
+    "exists": true,
+    "token_count": 114,
+    "imbalances": []
+  },
+  "C:\\Lazy Hero\\OneButtonAssistant\\adapters\\hekili_adapter.lua": {
+    "exists": true,
+    "token_count": 142,
+    "imbalances": []
+  },
+  "C:\\Lazy Hero\\OneButtonAssistant\\adapters\\weak_auras_adapter.lua": {
+    "exists": true,
+    "token_count": 62,
+    "imbalances": []
+  },
+  "C:\\Lazy Hero\\OneButtonAssistant\\adapters\\shared_adapter_helpers.lua": {
+    "exists": true,
+    "token_count": 48,
+    "imbalances": []
+  },
+  "C:\\Program Files (x86)\\World of Warcraft\\_retail_\\Interface\\AddOns\\OneButtonAssistant\\adapters\\gse_adapter.lua": {
+    "exists": true,
+    "token_count": 114,
+    "imbalances": []
+  },
+  "C:\\Program Files (x86)\\World of Warcraft\\_retail_\\Interface\\AddOns\\OneButtonAssistant\\adapters\\hekili_adapter.lua": {
+    "exists": true,
+    "token_count": 142,
+    "imbalances": []
+  },
+  "C:\\Program Files (x86)\\World of Warcraft\\_retail_\\Interface\\AddOns\\OneButtonAssistant\\adapters\\weak_auras_adapter.lua": {
+    "exists": true,
+    "token_count": 62,
+    "imbalances": []
+  },
+  "C:\\Program Files (x86)\\World of Warcraft\\_retail_\\Interface\\AddOns\\OneButtonAssistant\\adapters\\shared_adapter_helpers.lua": {
+    "exists": true,
+    "token_count": 48,
+    "imbalances": []
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 256 256" width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#111827" />
+      <stop offset="1" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="28" fill="url(#bg)" />
+  <!-- circular badge ring -->
+  <circle cx="128" cy="88" r="56" fill="#0B1220" stroke="#D99B1F" stroke-width="6" />
+  <!-- stylized D + chart inside -->
+  <g transform="translate(92,56)">
+    <path d="M10 8 L30 8 C38 8 46 16 46 24 C46 36 36 44 26 44 L10 44 Z" fill="#D99B1F" opacity="0.95" />
+    <rect x="8" y="18" width="6" height="18" rx="1" fill="#F0C674" />
+    <rect x="20" y="10" width="6" height="26" rx="1" fill="#E6A82F" />
+    <rect x="32" y="4" width="6" height="32" rx="1" fill="#C78A10" />
+  </g>
+  <!-- bottom label -->
+  <text x="128" y="210" font-family="Segoe UI, Roboto, Arial" font-size="20" text-anchor="middle" fill="#E5E7EB">Details</text>
+</svg>

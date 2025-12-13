@@ -1,0 +1,10 @@
+--- RAW mapped_parens len=1812 ---
+zlib(wbits=15) fail: Error -3 while decompressing data: incorrect header check
+zlib(wbits=31) fail: Error -3 while decompressing data: incorrect header check
+zlib(wbits=-15) fail: Error -3 while decompressing data: invalid code lengths set
+gzip fail: Not a gzipped file (b'M\x1a')
+--- RAW filtered_only len=1743 ---
+zlib(wbits=15) fail: Error -3 while decompressing data: incorrect header check
+zlib(wbits=31) fail: Error -3 while decompressing data: incorrect header check
+zlib(wbits=-15) fail: Error -3 while decompressing data: invalid code lengths set
+gzip fail: Not a gzipped file (b'M\x1a')

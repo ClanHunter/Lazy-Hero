@@ -1,0 +1,5 @@
+data,event,raw_main_hand,raw_mainhand,raw_mh,raw_off_hand,raw_offhand,raw_oh,time
+"{""talents"": {}, ""probeTest"": true, ""procs"": {}, ""buffs"": {}, ""enemyCount"": 1, ""resources"": {}}",weakauras_state,,,,,,,1765248135.0
+"{""talents"": {}, ""probeTest"": true, ""procs"": {}, ""buffs"": {}, ""enemyCount"": 1, ""resources"": {}}",rawSuggestion:weakauras,,,,,,,1765248135.0
+"{""raw"": {""off_hand"": {""type"": ""offhand""}, ""main_hand"": {""type"": ""mainhand""}, ""oh"": {""type"": ""offhand""}, ""mh"": {""type"": ""mainhand""}, ""mainhand"": {""type"": ""mainhand""}, ""offhand"": {""type"": ""offhand""}}, ""name"": null, ""reason"": ""hekili:state""}",hekili_state,"{""type"": ""mainhand""}","{""type"": ""mainhand""}","{""type"": ""mainhand""}","{""type"": ""offhand""}","{""type"": ""offhand""}","{""type"": ""offhand""}",1765248139.0
+"{""off_hand"": {""type"": ""offhand""}, ""main_hand"": {""type"": ""mainhand""}, ""oh"": {""type"": ""offhand""}, ""mh"": {""type"": ""mainhand""}, ""mainhand"": {""type"": ""mainhand""}, ""offhand"": {""type"": ""offhand""}}",rawSuggestion:hekili,,,,,,,1765248139.0
