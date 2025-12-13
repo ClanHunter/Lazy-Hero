@@ -1,4 +1,0 @@
-{"event": "weakauras_state", "time": 1765248135.0, "data": {"talents": {}, "probeTest": true, "procs": {}, "buffs": {}, "enemyCount": 1, "resources": {}}}
-{"event": "rawSuggestion:weakauras", "time": 1765248135.0, "data": {"talents": {}, "probeTest": true, "procs": {}, "buffs": {}, "enemyCount": 1, "resources": {}}}
-{"event": "hekili_state", "time": 1765248139.0, "data": {"raw": {"off_hand": {"type": "offhand"}, "main_hand": {"type": "mainhand"}, "oh": {"type": "offhand"}, "mh": {"type": "mainhand"}, "mainhand": {"type": "mainhand"}, "offhand": {"type": "offhand"}}, "name": "null", "reason": "hekili:state"}}
-{"event": "rawSuggestion:hekili", "time": 1765248139.0, "data": {"off_hand": {"type": "offhand"}, "main_hand": {"type": "mainhand"}, "oh": {"type": "offhand"}, "mh": {"type": "mainhand"}, "mainhand": {"type": "mainhand"}, "offhand": {"type": "offhand"}}}
