@@ -1,0 +1,42 @@
+name: Create PR (manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create Pull Request
+        id: create
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const title = "Refactor: extract shared adapter helpers";
+            const body = `Extracts small pure helper functions into ` + "`adapters/shared_adapter_helpers.lua`" + ` and updates callers to prefer shared helpers with pcall-guarded fallbacks.
+
+Files changed:
+- `adapters/shared_adapter_helpers.lua`
+- `OneButtonAssistant_bglogger.lua`
+
+Testing:
+- Run `luac -p` on changed files.
+- Perform in-game smoke tests for export and UI.`;
+            const head = "single-commit-refactor_20251213_135409";
+            const base = "main";
+            const response = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              head,
+              base,
+              body
+            });
+            core.setOutput("pr_url", response.data.html_url);
+            console.log("PR created:", response.data.html_url);
+
+      - name: Output PR URL
+        run: echo "PR URL: ${{ steps.create.outputs.pr_url }}"
