@@ -51,7 +51,7 @@ function M.chunk_ndjson(nd, linesPerChunk)
   local parts = {}
   local pos = 1
   while true do
-    local s, e = nd:find('\n', pos, true)
+    local s, e = nd:find("\n", pos, true)
     if not s then
       if pos <= #nd then table.insert(parts, nd:sub(pos)) end
       break
@@ -124,7 +124,29 @@ function M.prepare_export_chunks(matchID, linesPerChunk)
     if m.meta and m.meta.matchID == matchID then
       local nd = M.matchToNDJSON(m)
       if not nd then return nil end
-      local chunks = M.chunk_ndjson(nd, linesPerChunk)
+      local chunks = M.chunk_ndjson and M.chunk_ndjson(nd, linesPerChunk)
+      if not chunks then
+        -- fallback simple chunking using safe find/sub loop (avoids pattern parser issues)
+        local parts = {}
+        local ppos = 1
+        while true do
+          local ss, ee = nd:find("\n", ppos, true)
+          if not ss then
+            if ppos <= #nd then table.insert(parts, nd:sub(ppos)) end
+            break
+          end
+          table.insert(parts, nd:sub(ppos, ss - 1))
+          ppos = ee + 1
+        end
+        chunks = {}
+        local i = 1
+        while i <= #parts do
+          local j = math.min(i + linesPerChunk - 1, #parts)
+          local seg = table.concat(parts, "\n", i, j)
+          table.insert(chunks, seg)
+          i = j + 1
+        end
+      end
       OneButtonAssistantDB.bgExportChunks = OneButtonAssistantDB.bgExportChunks or {}
       OneButtonAssistantDB.bgExportChunks[matchID] = chunks
       OneButtonAssistantDB.bgExport = OneButtonAssistantDB.bgExport or {}
