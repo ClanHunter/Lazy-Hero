@@ -146,8 +146,8 @@ function M.chunk_ndjson(nd, linesPerChunk)
   if not nd then return nil end
   linesPerChunk = tonumber(linesPerChunk) or 500
   local parts = {}
-  for line in nd:gmatch("([^
 ]+)\n?") do table.insert(parts, line) end
+  for line in nd:gmatch("([^\\n]+)\\n?") do table.insert(parts, line) end
   local chunks = {}
   local i = 1
   while i <= #parts do
