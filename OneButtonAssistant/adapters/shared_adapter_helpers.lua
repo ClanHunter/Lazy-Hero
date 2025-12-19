@@ -49,16 +49,18 @@ function M.chunk_ndjson(nd, linesPerChunk)
   if not nd then return nil end
   linesPerChunk = tonumber(linesPerChunk) or 500
   local parts = {}
-  local pos = 1
-  while true do
-    local s, e = nd:find("\n", pos, true)
-    if not s then
-      if pos <= #nd then table.insert(parts, nd:sub(pos)) end
-      break
+    if nd and nd ~= "" then
+      local i = 1
+      while i <= #nd do
+        local s = nd:find("\n", i, true)
+        if not s then
+          table.insert(parts, nd:sub(i))
+          break
+        end
+        table.insert(parts, nd:sub(i, s-1))
+        i = s + 1
+      end
     end
-    table.insert(parts, nd:sub(pos, s - 1))
-    pos = e + 1
-  end
   local chunks = {}
   local i = 1
   while i <= #parts do
