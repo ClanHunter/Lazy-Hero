@@ -146,7 +146,19 @@ function M.chunk_ndjson(nd, linesPerChunk)
   if not nd then return nil end
   linesPerChunk = tonumber(linesPerChunk) or 500
   local parts = {}
-  for line in nd:gmatch("([^\\n]+)\\n?") do table.insert(parts, line) end
+  -- split by newline without using complex patterns to avoid parser pitfalls
+  do
+    local pos = 1
+    while true do
+      local s, e = nd:find("\n", pos, true)
+      if not s then
+        if pos <= #nd then table.insert(parts, nd:sub(pos)) end
+        break
+      end
+      table.insert(parts, nd:sub(pos, s - 1))
+      pos = e + 1
+    end
+  end
   local chunks = {}
   local i = 1
   while i <= #parts do
@@ -300,9 +312,20 @@ function M.prepare_export_chunks(matchID, linesPerChunk)
       if not nd then return nil end
       local chunks = M.chunk_ndjson and M.chunk_ndjson(nd, linesPerChunk)
       if not chunks then
-        -- fallback simple chunking
+        -- fallback simple chunking (safe, non-pattern)
         local parts = {}
-        for line in nd:gmatch("([^\n]+)\n?") do table.insert(parts, line) end
+        do
+          local pos = 1
+          while true do
+            local s, e = nd:find("\n", pos, true)
+            if not s then
+              if pos <= #nd then table.insert(parts, nd:sub(pos)) end
+              break
+            end
+            table.insert(parts, nd:sub(pos, s - 1))
+            pos = e + 1
+          end
+        end
         chunks = {}
         local i = 1
         while i <= #parts do
