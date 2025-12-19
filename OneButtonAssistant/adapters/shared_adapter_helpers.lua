@@ -8,14 +8,14 @@ function M.extractKeyFromRaw(raw)
   if not raw then return nil end
   if type(raw) ~= "table" then return tostring(raw) end
   local candidates = { "key", "spell", "suggestion", "next", "action", "name", "id", "spellID" }
-  for _,k in ipairs(candidates) do
+  for _, k in ipairs(candidates) do
     if raw[k] then return raw[k] end
   end
   if raw[1] then return raw[1] end
-  for k,v in pairs(raw) do
+  for k, v in pairs(raw) do
     if type(v) == "string" or type(v) == "number" then return v end
     if type(v) == "table" then
-      for kk,vv in pairs(v) do
+      for kk, vv in pairs(v) do
         if type(vv) == "string" or type(vv) == "number" then return vv end
       end
     end
@@ -31,7 +31,6 @@ function M.safeLog(topic, payload)
     return
   end
   -- fallback: write to print (non-invasive)
-  -- pcall to avoid spam if print is overridden
   pcall(print, "[OneButtonAssistant]", topic, payload)
 end
 
@@ -39,7 +38,7 @@ end
 function M.probeTable(name, tbl, found)
   local result = { name = name or "unknown", found = found and true or false, fields = {}, note = "Non-invasive probe: function bodies are not executed." }
   if not tbl then return result end
-  for k,v in pairs(tbl) do
+  for k, v in pairs(tbl) do
     local t = type(v)
     local entry = { type = t }
     if t == "function" then
