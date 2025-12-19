@@ -1,4 +1,5 @@
 -- Minimal safe stub to ensure Lua syntax checks pass while we finalize helpers.
+-- CI-clean: rewritten to ensure UTF-8 without BOM and stable EOF.
 OneButtonAssistantShared = OneButtonAssistantShared or {}
 local M = OneButtonAssistantShared
 
@@ -261,3 +262,4 @@ end
 -- CI touch: refreshed blob to ensure runners pick up latest file (2025-12-19T17:51:00Z)
 -- Backup: OneButtonAssistant/adapters/shared_adapter_helpers.lua.bak_20251219_175100
 return M
+
