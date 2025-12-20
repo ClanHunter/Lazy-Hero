@@ -391,7 +391,18 @@ function BGLogger.PrepareExportChunks(matchID, linesPerChunk)
         chunks = shared.chunk_ndjson(nd, linesPerChunk)
       else
         local parts = {}
-        for line in nd:gmatch("([^\n]+)\n?") do table.insert(parts, line) end
+        if nd and nd ~= "" then
+          local i = 1
+          while i <= #nd do
+            local s = nd:find("\n", i, true)
+            if not s then
+              table.insert(parts, nd:sub(i))
+              break
+            end
+            table.insert(parts, nd:sub(i, s-1))
+            i = s + 1
+          end
+        end
         chunks = {}
         local i = 1
         while i <= #parts do
